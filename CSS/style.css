@@ -10,3 +10,21 @@ body {
 .navbar-container {
   background-color: #262b37;
 }
+.about-container {
+  background-color: #00bdbd;
+}
+.education-container {
+  background-color: #eeeeee;
+}
+.bg-red {
+  background-color: #fb857f;
+}
+.red-color {
+  color: #fb857f;
+}
+.circle {
+  background-color: #fb857f;
+  widows: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
