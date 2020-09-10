@@ -8,7 +8,10 @@ body {
   background-color: #8d8d8d;
 }
 .navbar-container {
+  top: 0;
   background-color: #262b37;
+  position: sticky;
+  z-index: 2;
 }
 .about-container {
   background-color: #00bdbd;
