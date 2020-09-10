@@ -14,7 +14,7 @@ body {
   z-index: 2;
 }
 .about-container {
-  background-color: #00bdbd;
+  background-color: #636e6e;
 }
 .education-container {
   background-color: #eeeeee;
@@ -41,5 +41,21 @@ body {
   background-color: #474d5d;
 }
 .inner-form {
+  background-color: #585f73;
+}
+.footer {
+  background-color: #2bb3dd;
+}
+.circle-one {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #fff;
+  font-size: 40px;
+  text-align: center;
+  color: #2bb3dd;
+}
+.circle-one:hover {
   background-color: #585f73;
 }
